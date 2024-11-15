@@ -1,17 +1,7 @@
 ---
 layout: page
-title: About
+title: O projekcie
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
-
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+CineLab to projekt, który tworzę już od 2018 roku, choć początki produkcji pierwszych filmów sięgają jeszcze wcześniej. Filmy z tych pierwszych lat są ukryte – z perspektywy czasu wiem, że miały swoje wady, ale to dzięki nim nauczyłem się tak wiele i mogłem rozwijać swoją pasję. Tworzenie filmów, od pomysłu przez realizację aż po postprodukcję, stało się czymś więcej niż hobby – przerodziło się w projekt wspomniany na początku, czyli CineLab. Jego celem, oprócz oczywiście tworzenie pięknych filmów jest również współpraca z ludźmi, którzy podzielają moją pasję. W zależności od skali projektu, współpracuję z dźwiękowcem, operatorem drona, mistrzem oświetlenia czy scenarzystą. Natomiast projekty takie jak film ślubny czy relacja z eventu, realizuję osobiście. Dbam o to aby każdy film był dostosowany indywidualnie do potrzeb klienta, a w wolnych chwilach CineLab staje się moją przestrzenią do tworzenia własnych filmów i nieustannego doskonalenia swoich umiejętności, aby być coraz lepszym w tym co robię.
