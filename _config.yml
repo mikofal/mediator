@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "CineLab"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Laboratorium kinematografii
 
-email: a-mail@mail.mail
+email: kontakt@cinelab.com.pl
 #blog logo
 logo: "/assets/images/logo.png"
 float_logo: true # true, false (default)
